@@ -8,9 +8,11 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 Öncelikle projeyi colene'layın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
+
 git clone https://github.com/ktekee/kodluyoruzilkrepo.git
-'''
+
+```
 
 ## Usage
 
@@ -18,10 +20,11 @@ Projeyi clone'ladıktan sonra Visual Studio Code programında açınız
 
 Linux için:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+
+```
 
 ## Contributing
 
